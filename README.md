@@ -220,12 +220,4 @@ Para contribuir al proyecto:
 
 Este proyecto está bajo la licencia MIT.
 
-## Contacto
-
-Para preguntas o soporte, contactar al equipo del curso de Fundamentos de Redes Neurais.
-
----
-
-**Universidade Federal do Maranhão**  
-**Professor Dr. Thales Levi Azevedo Valente**  
-**Engenharia da Computação - ECPXXXX - Fundamentos de Redes Neurais** 
+- ECPXXXX - Fundamentos de Redes Neurais** 
