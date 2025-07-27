@@ -220,4 +220,3 @@ Para contribuir al proyecto:
 
 Este proyecto está bajo la licencia MIT.
 
-- ECPXXXX - Fundamentos de Redes Neurais** 
