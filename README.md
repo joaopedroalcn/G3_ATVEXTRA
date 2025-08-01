@@ -69,14 +69,6 @@ model.add(Dense(1, activation='sigmoid'))
 
 ---
 
-## 🧪 Resultados Esperados
-
-- Modelo final salvo: `lstm_sensor_fault_detection_final.keras`
-- F1-Score médio: **0.80–0.90**
-- Análise detalhada por sensor exibida graficamente
-
----
-
 ## 📦 Bibliotecas Necessárias
 
 ```bash
